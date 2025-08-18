@@ -1,2 +1,2 @@
-PyGithub==1.52
-notebook==6.4.12
+PyGithub==2.7.0
+notebook==7.4.5
